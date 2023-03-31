@@ -1,0 +1,45 @@
+C:\Users\Рамин&Эмир\Desktop\BubbleSort\bin\Debug\net6.0\BubbleSort.exe
+C:\Users\Рамин&Эмир\Desktop\BubbleSort\bin\Debug\net6.0\BubbleSort.deps.json
+C:\Users\Рамин&Эмир\Desktop\BubbleSort\bin\Debug\net6.0\BubbleSort.runtimeconfig.json
+C:\Users\Рамин&Эмир\Desktop\BubbleSort\bin\Debug\net6.0\BubbleSort.dll
+C:\Users\Рамин&Эмир\Desktop\BubbleSort\bin\Debug\net6.0\BubbleSort.pdb
+C:\Users\Рамин&Эмир\Desktop\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.AssemblyReference.cache
+C:\Users\Рамин&Эмир\Desktop\BubbleSort\obj\Debug\net6.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рамин&Эмир\Desktop\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\Рамин&Эмир\Desktop\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfo.cs
+C:\Users\Рамин&Эмир\Desktop\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Рамин&Эмир\Desktop\BubbleSort\obj\Debug\net6.0\BubbleSort.dll
+C:\Users\Рамин&Эмир\Desktop\BubbleSort\obj\Debug\net6.0\refint\BubbleSort.dll
+C:\Users\Рамин&Эмир\Desktop\BubbleSort\obj\Debug\net6.0\BubbleSort.pdb
+C:\Users\Рамин&Эмир\Desktop\BubbleSort\obj\Debug\net6.0\BubbleSort.genruntimeconfig.cache
+C:\Users\Рамин&Эмир\Desktop\BubbleSort\obj\Debug\net6.0\ref\BubbleSort.dll
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes\BubbleSort\bin\Debug\net6.0\BubbleSort.exe
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes\BubbleSort\bin\Debug\net6.0\BubbleSort.deps.json
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes\BubbleSort\bin\Debug\net6.0\BubbleSort.runtimeconfig.json
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes\BubbleSort\bin\Debug\net6.0\BubbleSort.dll
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes\BubbleSort\bin\Debug\net6.0\BubbleSort.pdb
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.AssemblyReference.cache
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes\BubbleSort\obj\Debug\net6.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfo.cs
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes\BubbleSort\obj\Debug\net6.0\BubbleSort.dll
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes\BubbleSort\obj\Debug\net6.0\refint\BubbleSort.dll
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes\BubbleSort\obj\Debug\net6.0\BubbleSort.pdb
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes\BubbleSort\obj\Debug\net6.0\BubbleSort.genruntimeconfig.cache
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes\BubbleSort\obj\Debug\net6.0\ref\BubbleSort.dll
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes C#\BubbleSort\bin\Debug\net6.0\BubbleSort.exe
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes C#\BubbleSort\bin\Debug\net6.0\BubbleSort.deps.json
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes C#\BubbleSort\bin\Debug\net6.0\BubbleSort.runtimeconfig.json
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes C#\BubbleSort\bin\Debug\net6.0\BubbleSort.dll
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes C#\BubbleSort\bin\Debug\net6.0\BubbleSort.pdb
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes C#\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.AssemblyReference.cache
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes C#\BubbleSort\obj\Debug\net6.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes C#\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes C#\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfo.cs
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes C#\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes C#\BubbleSort\obj\Debug\net6.0\BubbleSort.dll
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes C#\BubbleSort\obj\Debug\net6.0\refint\BubbleSort.dll
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes C#\BubbleSort\obj\Debug\net6.0\BubbleSort.pdb
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes C#\BubbleSort\obj\Debug\net6.0\BubbleSort.genruntimeconfig.cache
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Буткемп - программирование\SortTypes C#\BubbleSort\obj\Debug\net6.0\ref\BubbleSort.dll
